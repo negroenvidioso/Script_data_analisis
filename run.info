@@ -1,0 +1,5 @@
+param	value
+cmd_line	cuffnorm -p 10 /media/run-projects/allan-tesis/RNA-Seq/Human_reference.gtf SRR3297279_control_sort.bam,SRR3297284_c2_sort.bam,SRR3297287_c3_sort.bam SRR3297281_hip1_sort.bam,SRR3297282_hip2_sort.bam,SRR3297283_hip3_sort.bam,SRR3297286_hip4_sort.bam,SRR3297289_hip5_sort.bam -o PRJNA316464_results 
+version	2.2.1
+SVN_revision	
+boost_version	105500
